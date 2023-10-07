@@ -1,6 +1,9 @@
 This projet contians information of the following:
 
-##=>Microsoft WebView2 is a WebView control that is part of the Microsoft Edge WebView2 SDK. It allows developers to embed a Chromium-based web browser into their Windows applications, providing the ability to display web content within the application's user interface. WebView2 is designed to be a more modern and robust replacement for the older WebView control that was based on Internet Explorer.
+**##========>Microsoft WebView2<=====================**
+
+
+WebView2 is a WebView control that is part of the Microsoft Edge WebView2 SDK. It allows developers to embed a Chromium-based web browser into their Windows applications, providing the ability to display web content within the application's user interface. WebView2 is designed to be a more modern and robust replacement for the older WebView control that was based on Internet Explorer.
 
 Here are some key features and aspects of Microsoft WebView2:
 
@@ -27,7 +30,8 @@ Here are some key features and aspects of Microsoft WebView2:
 Overall, Microsoft WebView2 is a powerful tool for developers who want to integrate web content seamlessly into their Windows applications while benefiting from the performance, security, and compatibility of the Chromium engine. It offers a versatile way to create hybrid applications that combine native and web-based features, catering to a wide range of use cases.
 
 
-##==========>**Wpf webbrowercontrol**<======================================================================
+##==========>**Wpf webbrowercontrol**<========================================
+
 The WPF (Windows Presentation Foundation) WebBrowser control is a UI control that allows you to embed a web browser component within your WPF application. It enables you to display web content, such as HTML web pages, inside your WPF application's user interface. Here are the details of the WPF WebBrowser control:
 
 Based on Internet Explorer (IE):
@@ -36,6 +40,7 @@ The WebBrowser control in WPF is based on the Internet Explorer (IE) browser eng
 
 
 **##=============>Cef Browser<=====================================**
+
 CEF (Chromium Embedded Framework) is an open-source framework that allows developers to embed the Chromium web browser engine into their own applications. CEF provides a way to integrate web content into desktop applications, enabling the rendering of web pages, web-based applications, and interactive content within a native application's user interface. Here are some details about CEF:
 
 1. **Chromium Engine**: CEF uses the Chromium web browser engine, which is the same engine used by popular web browsers like Google Chrome and Microsoft Edge. This ensures compatibility with modern web standards, technologies, and performance optimizations.
