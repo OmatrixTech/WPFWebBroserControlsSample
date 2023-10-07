@@ -25,12 +25,17 @@ Here are some key features and aspects of Microsoft WebView2:
 10. **Debugging Tools**: WebView2 provides developer tools for debugging web content directly within the WebView control, making it easier to diagnose and troubleshoot issues.
 
 Overall, Microsoft WebView2 is a powerful tool for developers who want to integrate web content seamlessly into their Windows applications while benefiting from the performance, security, and compatibility of the Chromium engine. It offers a versatile way to create hybrid applications that combine native and web-based features, catering to a wide range of use cases.
-##==>Wpf webbrowercontrol
+
+
+##==========>**Wpf webbrowercontrol**<======================================================================
 The WPF (Windows Presentation Foundation) WebBrowser control is a UI control that allows you to embed a web browser component within your WPF application. It enables you to display web content, such as HTML web pages, inside your WPF application's user interface. Here are the details of the WPF WebBrowser control:
 
 Based on Internet Explorer (IE):
 The WebBrowser control in WPF is based on the Internet Explorer (IE) browser engine. This means it uses the IE rendering and JavaScript engine to display web content. As a result, it may not support modern web standards and features as well as more modern browser engines like Chromium.
-##==>Cef Browser
+
+
+
+**##=============>Cef Browser<=====================================**
 CEF (Chromium Embedded Framework) is an open-source framework that allows developers to embed the Chromium web browser engine into their own applications. CEF provides a way to integrate web content into desktop applications, enabling the rendering of web pages, web-based applications, and interactive content within a native application's user interface. Here are some details about CEF:
 
 1. **Chromium Engine**: CEF uses the Chromium web browser engine, which is the same engine used by popular web browsers like Google Chrome and Microsoft Edge. This ensures compatibility with modern web standards, technologies, and performance optimizations.
